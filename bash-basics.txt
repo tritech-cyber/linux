@@ -1,6 +1,11 @@
 Debain 10*
+$sudo
 $sudo -i
 #
+Debian *
+$sudo apt install gimp inkscape
+
+
 Basics:
 
 pwd
